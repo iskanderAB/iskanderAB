@@ -34,6 +34,8 @@
 
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-7952B3?style=flat&logo=phpstorm)
+
 
 
 ## Work
