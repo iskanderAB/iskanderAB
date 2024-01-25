@@ -18,7 +18,7 @@
 ## Work
 
 ### [Finanztip](https://www.linkedin.com/company/finanztip)
-I am currently a software developer at Finanztip, a company committed to providing high-quality financial advice and services.. 
+I am currently a software developer 👨🏻‍💻  at Finanztip , a company committed to providing high-quality financial advice and services.. 
 
 
 ## Contact
@@ -30,6 +30,6 @@ Feel free to reach out to me! I'm always open to collaboration and discussions.
 
 ## About Me
 
-I'm a technology lover with a strong motivation for software development. My development philosophy revolves around ""I am a firm believer in crafting code that is not only optimized and clean but also in collaboration with a skilled team. I believe this combination makes a significant difference, much like the way humans work together harmoniously"". I find excitement in exploring new technologies, pushing the boundaries of what's possible, and contributing to impactful projects.
+I'm a technology lover with a strong motivation for software development. My development philosophy revolves around ** I am a firm believer in crafting code that is not only optimized and clean but also in collaboration with a skilled team. I believe this combination makes a significant difference, much like the way humans work together harmoniously ** . I find excitement in exploring new technologies, pushing the boundaries of what's possible, and contributing to impactful projects.
 
 ## 🚀 Let's code together and build amazing things!
