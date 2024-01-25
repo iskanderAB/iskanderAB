@@ -12,18 +12,19 @@
 </div>
   
 ### Tech Stack 👨🏻‍💻
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React native](http://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go)
 
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-Big_Sur-000000?style=flat&logo=apple)
