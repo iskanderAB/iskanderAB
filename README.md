@@ -17,8 +17,8 @@
 
 ## Work
 
-### [Finanztip](link-to-finanztip-profile)
-I am currently employed at Finanztip, a company committed to delivering high-quality financial advice and services. My role involves [brief description of your role and responsibilities].
+### [Finanztip](https://www.linkedin.com/company/finanztip)
+I am currently a software developer at Finanztip, a company committed to providing high-quality financial advice and services.. 
 
 
 ## Contact
