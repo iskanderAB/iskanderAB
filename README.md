@@ -10,17 +10,8 @@
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=iskanderab&count_private=true&theme=highcontrast&show_icons=true" /></span>
 </div>
-
-## Skills
-
-- Symfony
-- React.js
-- React Native
-- Golang
-- Robotics
-
   
-### 🛠 Tech Stack
+### Tech Stack 👨🏻‍💻
 
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
