@@ -25,8 +25,8 @@ I am currently employed at Finanztip, a company committed to delivering high-qua
 
 Feel free to reach out to me! I'm always open to collaboration and discussions.
 
-- Email: [IskanderAB](mailto:iskanderabasi@gmail.com)
-- LinkedIn: [IskanderAB](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/iskander-abbassi-06807217b)
+- Email: Iskanderab-email (mailto:iskanderabasi@gmail.com)
+- LinkedIn: iskanderab-linkedIn (https://www.linkedin.com/in/iskander-abbassi-06807217b)
 
 ## About Me
 
