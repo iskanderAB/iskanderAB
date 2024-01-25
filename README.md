@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=TaherSaid&count_private=true&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=iskanderab&count_private=true&theme=highcontrast&show_icons=true" /></span>
 </div>
 
 ## Skills
