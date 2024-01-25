@@ -25,7 +25,7 @@ I am currently a software developer at Finanztip, a company committed to providi
 
 Feel free to reach out to me! I'm always open to collaboration and discussions.
 
-- Email: Iskanderab-email (mailto:iskanderabasi@gmail.com)
+- Email: [iskanderabasi@gmail.com](mailto:your.email@example.com)
 - LinkedIn: iskanderab-linkedIn (https://www.linkedin.com/in/iskander-abbassi-06807217b)
 
 ## About Me
