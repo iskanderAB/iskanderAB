@@ -7,6 +7,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
 [![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iskanderab&show_icons=true&count_private=true&hide=prs,contribs&theme=radical)
+
 ## Skills
 
 - Symfony
