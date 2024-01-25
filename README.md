@@ -26,6 +26,9 @@
 
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-Big_Sur-000000?style=flat&logo=apple)
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=flat&logo=windows)
+
 
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
@@ -35,6 +38,8 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-7952B3?style=flat&logo=phpstorm)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm)
+
 
 
 
