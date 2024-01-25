@@ -5,7 +5,7 @@
 ## GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
-[![GitHub repositories](https://img.shields.io/badge/repositories-?color=brightgreen)](https://github.com/iskanderab?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
 
 ## Skills
 
