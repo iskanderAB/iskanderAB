@@ -30,8 +30,8 @@
 
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React native](http://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-5.x-000000?style=flat&logo=symfony)
-![Golang](https://img.shields.io/badge/Go-1.17-00ADD8?style=flat&logo=go)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
 
 
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
