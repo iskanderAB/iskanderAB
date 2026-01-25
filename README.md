@@ -64,12 +64,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 💼 Professional Experience
 
 ### **Software Developer @ [Keytchens](https://www.keytchens.com/)**
-A innovative company dedicated to delivering cutting-edge solutions and exceptional digital experiences.
+A leading food delivery solution platform that helps restaurants centralize their orders from multiple delivery platforms (Uber Eats, Deliveroo, etc.), optimize operations, and boost revenue.
 
 **Key Contributions:**
-- Developing scalable web applications using modern tech stacks
-- Collaborating with cross-functional teams to deliver consumer-focused solutions
-- Contributing to the company's mission of making financial advice accessible to everyone
+- Developing scalable web applications and mobile solutions for the food delivery industry
+- Building features that centralize and automate restaurant order management
+- Collaborating with cross-functional teams to enhance restaurant visibility and efficiency
+- Contributing to innovative solutions that empower restaurants to succeed in the digital delivery space
 
 ---
 
