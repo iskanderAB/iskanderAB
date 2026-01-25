@@ -4,6 +4,8 @@
 
 ## GitHub Stats
 
+<img src="https://raw.githubusercontent.com/yassine-bhn/yassine-bhn/output/snake.svg" alt="Snake animation" />
+
 [![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
 [![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
 
