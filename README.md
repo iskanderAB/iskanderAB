@@ -18,8 +18,6 @@
 </div>
 
 ###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iskanderAB)](https://git.io/streak-stats)
 [![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
 [![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
 
