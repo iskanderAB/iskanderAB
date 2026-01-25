@@ -1,78 +1,108 @@
-# Hello, I'm Iskander ABBASSI 🚀
+# Hi, I'm Iskander ABBASSI 🚀
 
-👋 Welcome to my GitHub profile! I'm a technology lover and a motivated individual passionate about software development, robotics, and creating innovative solutions. Currently, I'm working for Finanztip, a company dedicated to providing financial advice and solutions.
+> Full Stack Developer | Software Engineer | Tech Enthusiast
+> 
+> Building innovative solutions through clean code and collaborative teamwork
 
-## GitHub Stats
-###
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in modern web technologies, robotics, and building scalable applications. Currently, I'm contributing my skills at **Finanztip**, a leading fintech company dedicated to financial solutions and consumer education.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iskanderab" alt="Profile Views">
-</div>
+---
 
-
-###
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iskanderAB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
-
-</div>
-
-###
-[![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)](https://github.com/iskanderAB)
-[![GitHub stars](https://img.shields.io/github/stars/iskanderab?style=social)](https://github.com/iskanderab)
-
-<div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=iskanderab&count_private=true&theme=highcontrast&show_icons=true" /></span>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=iskanderAB&color=blue" alt="Profile Views" />
   
-### Tech Stack 👨🏻‍💻
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+  ![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/iskanderAB?style=social)
+</div>
 
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iskanderAB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderAB&layout=compact&theme=vision-friendly-dark&hide_border=false" height="160" alt="languages graph" />
+</div>
 
+---
+
+## 💻 Tech Stack
+
+### **Frontend Development**
+![HTML5](http://img.shields.io/badge/-HTML5-e24c27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](http://img.shields.io/badge/-CSS3-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](http://img.shields.io/badge/-JavaScript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![React native](http://img.shields.io/badge/-React_native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go)
+![React Native](http://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+### **Backend Development**
+![PHP](http://img.shields.io/badge/-PHP-767bb3?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+### **Database & Data**
+![MySQL](http://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
+![SQL](http://img.shields.io/badge/-SQL-00758f?style=flat-square&logo=database&logoColor=white)
+
+### **Tools & Platforms**
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=black)
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-Big_Sur-000000?style=flat&logo=apple)
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=flat&logo=windows)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+### **Development Environments**
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-7952B3?style=flat-square&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
-
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+### **Package Managers**
+![NPM](http://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](http://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 
+---
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-7952B3?style=flat&logo=phpstorm)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm)
+## 💼 Professional Experience
 
+### **Software Developer @ [Finanztip](https://www.finanztip.de)**
+A leading fintech company committed to providing high-quality financial advice and innovative financial services to consumers.
+
+**Key Contributions:**
+- Developing scalable web applications using modern tech stacks
+- Collaborating with cross-functional teams to deliver consumer-focused solutions
+- Contributing to the company's mission of making financial advice accessible to everyone
+
+---
+
+## 🎯 Philosophy & Values
+
+I am a firm believer in crafting **clean, optimized code** that not only solves problems efficiently but also remains maintainable and scalable. I'm convinced that **collaborative teamwork** with skilled developers makes a tremendous difference in delivering exceptional solutions. 
+
+I'm energized by:
+- 🔍 Exploring and mastering new technologies
+- 🏗️ Building robust and user-centric applications
+- 🤝 Contributing to impactful open-source projects
+- 💡 Solving complex technical challenges
+- 📚 Continuous learning and professional growth
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration, meaningful discussions, and exciting projects.
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-iskanderabasi%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:iskanderabasi@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iskander%20ABBASSI-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iskander-abbassi-06807217b)
+  
+</div>
+
+---
 
 <img src="https://raw.githubusercontent.com/yassine-bhn/yassine-bhn/output/snake.svg" alt="Snake animation" />
 
-## Work
+<div align="center">
+  
+### 🚀 Let's code together and build amazing things!
 
-### [Finanztip](https://www.linkedin.com/company/finanztip)
-I am currently a software developer 👨🏻‍💻  at Finanztip , a company committed to providing high-quality financial advice and services.. 
-
-
-## Contact
-
-Feel free to reach out to me! I'm always open to collaboration and discussions.
-
-- Email: [iskanderabasi@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [iskander ABBBASSI](https://www.linkedin.com/in/iskander-abbassi-06807217b)
-
-## About Me
-
-I'm a technology lover with a strong motivation for software development. My development philosophy revolves around ** I am a firm believer in crafting code that is not only optimized and clean but also in collaboration with a skilled team. I believe this combination makes a significant difference, much like the way humans work together harmoniously ** . I find excitement in exploring new technologies, pushing the boundaries of what's possible, and contributing to impactful projects.
-
-## 🚀 Let's code together and build amazing things!
+</div>
