@@ -63,8 +63,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 💼 Professional Experience
 
-### **Software Developer @ [Finanztip](https://www.finanztip.de)**
-A leading fintech company committed to providing high-quality financial advice and innovative financial services to consumers.
+### **Software Developer @ [Keytchens](https://www.keytchens.com/)**
+A innovative company dedicated to delivering cutting-edge solutions and exceptional digital experiences.
 
 **Key Contributions:**
 - Developing scalable web applications using modern tech stacks
