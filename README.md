@@ -42,7 +42,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm)
 
 
-
+<img src="https://raw.githubusercontent.com/yassine-bhn/yassine-bhn/output/snake.svg" alt="Snake animation" />
 
 ## Work
 
