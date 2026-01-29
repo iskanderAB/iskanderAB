@@ -16,13 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
   ![GitHub followers](https://img.shields.io/github/followers/iskanderAB?label=Followers&style=social)
   ![GitHub stars](https://img.shields.io/github/stars/iskanderAB?style=social)
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iskanderAB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderAB&layout=compact&theme=vision-friendly-dark&hide_border=false" height="160" alt="languages graph" />
-</div>
-
 ---
 
 ## 💻 Tech Stack
